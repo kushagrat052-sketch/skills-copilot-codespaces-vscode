@@ -1,2 +1,2 @@
 # skills-copilot-codespaces-vscode
-My clone repository
+A GitHub Codespaces and Copilot Skills workspace for software development exercises and workspace configuration.
